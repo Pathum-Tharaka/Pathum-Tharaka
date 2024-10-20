@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathum-tharaka" alt="pathum-tharaka" /></a> </p>
 
-- 🔭 I’m currently working on **Travel website**
+- 🔭 I’m currently working on **Doctor Appointment**
 
 - 🌱 I’m currently learning **MERN,Java**
 
