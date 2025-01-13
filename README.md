@@ -58,6 +58,13 @@
 
 <h3 align="center">Streak Stats:</h3>
 
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathum-tharaka&show_icons=true&locale=en&layout=compact" alt="pathum-tharaka" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pathum-tharaka&show_icons=true&locale=en" alt="pathum-tharaka" /></p>
+
+<p align="center"> <img align="left" alt="Coding" width="150" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pathum-tharaka&&theme=default" alt="pathum-tharaka" /><img align="right" alt="Coding" width="150" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"></p>
+
+
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DinukaKeshan&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="DinukaKeshan" />
 </p>
