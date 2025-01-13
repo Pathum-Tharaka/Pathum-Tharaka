@@ -14,6 +14,10 @@
     <img src="https://komarev.com/ghpvc/?username=Pathum-Tharaka&label=Profile%20views&color=0e75b6&style=flat" alt="Pathum-Tharaka" /> 
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pathum-tharaka&label=Profile%20views&color=0e75b6&style=flat" alt="pathum-tharaka" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathum-tharaka" alt="pathum-tharaka" /></a> </p>
+
 
 ---
 
