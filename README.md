@@ -11,18 +11,7 @@
 
 <p align="center"> 
     <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px><br>
-    <img src="https://komarev.com/ghpvc/?username=dinukakeshan&label=Profile%20views&color=0e75b6&style=flat" alt="pathumtharaka" /> 
-</p>
-
-<p align="center"> <a href="https://twitter.com/dinukakeshan" target="blank"><img src="https://img.shields.io/twitter/follow/dinukakeshan?logo=twitter&style=for-the-badge" alt="pathumtharaka" /></a> </p>
-
-<p align="center">
-  <a  href="https://t.me/Dinuka_keshan" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
-  </a>
-  <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/><br>
-  </a>
+    <img src="https://komarev.com/ghpvc/?username=Pathum-Tharaka&label=Profile%20views&color=0e75b6&style=flat" alt="Pathum-Tharaka" /> 
 </p>
 
 
@@ -42,9 +31,8 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **dinukakeshan1012@gmail.com**
+- 📫 How to reach me **tharakapathum75@gmail.com**
 
-- ⚡ Fun fact **Call me as FALCON**
 
 ---
 
