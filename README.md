@@ -1,6 +1,6 @@
 <div>
     <div align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Keshan;Software+Engineering+Student;Back-End+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" /><br> 
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Pathum;Software+Engineering+Student;Back-End+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" /><br> 
         <h1 align="center">I'm Pathum Tharaka</h1>
         <h3 align="center">A Machine that turns Coffee into Code</h3>
 
@@ -11,10 +11,10 @@
 
 <p align="center"> 
     <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px><br>
-    <img src="https://komarev.com/ghpvc/?username=dinukakeshan&label=Profile%20views&color=0e75b6&style=flat" alt="dinukakeshan" /> 
+    <img src="https://komarev.com/ghpvc/?username=dinukakeshan&label=Profile%20views&color=0e75b6&style=flat" alt="pathumtharaka" /> 
 </p>
 
-<p align="center"> <a href="https://twitter.com/dinukakeshan" target="blank"><img src="https://img.shields.io/twitter/follow/dinukakeshan?logo=twitter&style=for-the-badge" alt="dinukakeshan" /></a> </p>
+<p align="center"> <a href="https://twitter.com/dinukakeshan" target="blank"><img src="https://img.shields.io/twitter/follow/dinukakeshan?logo=twitter&style=for-the-badge" alt="pathumtharaka" /></a> </p>
 
 <p align="center">
   <a  href="https://t.me/Dinuka_keshan" target="_blank">
@@ -104,7 +104,6 @@
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/dinukakeshan"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dinukakeshan" /></a></p><br><br>
 
-### Hi there 👋
 
 <!--
 **Pathum-Tharaka/Pathum-Tharaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
