@@ -5,8 +5,7 @@
         <h3 align="center">A Machine that turns Coffee into Code</h3>
 
 <p>Hey fellow tech aficionados!  I'm Pathum, a coding virtuoso and passionate undergraduate sorcerer in the mystical realm of software development. My world revolves around crafting digital wonders, where every line of code is a brushstroke of innovation. Join me in this exhilarating journey of turning the ordinary into extraordinary! Let's code up some serious enchantment together!</p>
-    </div>
-</div>
+ 
     
 
 <p align="center"> 
@@ -14,11 +13,10 @@
     <img src="https://komarev.com/ghpvc/?username=Pathum-Tharaka&label=Profile%20views&color=0e75b6&style=flat" alt="Pathum-Tharaka" /> 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pathum-tharaka&label=Profile%20views&color=0e75b6&style=flat" alt="pathum-tharaka" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathum-tharaka" alt="pathum-tharaka" /></a> </p>
 
-
+   </div>
+</div>
 ---
 
 
