@@ -1,13 +1,11 @@
 <div>
-    <div align=center>
-        <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png" alt="Avatar photo of William Guerrand">
-    </div>
+    
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Keshan;Software+Engineering+Student;Back-End+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" /><br> 
-        <h1 align="center">I'm Dinuka Keshan</h1>
+        <h1 align="center">I'm Pathum Tharaka</h1>
         <h3 align="center">A Machine that turns Coffee into Code</h3>
 
-<p>Hey fellow tech aficionados!  I'm Dinuka, a coding virtuoso and passionate undergraduate sorcerer in the mystical realm of software development. My world revolves around crafting digital wonders, where every line of code is a brushstroke of innovation. Join me in this exhilarating journey of turning the ordinary into extraordinary! Let's code up some serious enchantment together!</p>
+<p>Hey fellow tech aficionados!  I'm Pathum, a coding virtuoso and passionate undergraduate sorcerer in the mystical realm of software development. My world revolves around crafting digital wonders, where every line of code is a brushstroke of innovation. Join me in this exhilarating journey of turning the ordinary into extraordinary! Let's code up some serious enchantment together!</p>
     </div>
 </div>
     
