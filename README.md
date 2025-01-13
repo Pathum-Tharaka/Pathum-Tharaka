@@ -39,13 +39,13 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://fb.com/dinuka.keshan.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinuka.keshan.94" height="50" width="50" /></a>
-<a href="https://instagram.com/__x.dino____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__x.dino____" height="50" width="50" /></a>
-<a href="https://www.youtube.com/@dinuka_keshan" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="dinuka keshan" height="50" width="50" /></a>
-<a href="https://discord.gg/8xBeEz5q" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Discord.svg" height="50" width="50" /></a>
-<a href="https://twitter.com/dinukakeshan" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Twitter.svg" alt="dinukakeshan" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/dinukakeshan" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="dinukakeshan" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/23254640/dinuka-keshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dinuka keshan" height="50" width="50" /></a>
+<a href="https://www.facebook.com/max.pathum.3954?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="max.pathum" height="50" width="50" /></a>
+<a href="https://www.instagram.com/pathu_tharaka_?igsh=MTVwemRzdmJlaXZqaA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pathu" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/pathum-tharaka-tharakapathum75" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="pathum-tharaka-tharakapathum75" height="50" width="50" /></a>
+<a href="https://www.youtube.com/@Iam_pathfinder" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="Iam_pathfinder" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Discord.svg" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Twitter.svg" alt="" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="50" width="50" /></a>
 </p>
 
 ---
@@ -80,16 +80,6 @@
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/tharakapat5"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Pathum-Tharaka" /></a></p><br><br>
-
-
-
-<a href="https://www.facebook.com/max.pathum.3954?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pathu_fb" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pathu_tharaka_?igsh=MTVwemRzdmJlaXZqaA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pathum_insta" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pathum-tharaka-tharakapathum75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pathum_linkedin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@Iam_pathfinder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gaming covernet" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahan3165" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jahanramesh" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jahan-ramesh" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jahanrazh" height="30" width="40" /></a>
+e-generator/master/src/images/icons/Social/hackerrank.svg" alt="jahanrazh" height="30" width="40" /></a>
 
 </p>
