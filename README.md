@@ -79,5 +79,5 @@
 ------
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/tharakapat5"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Pathum-Tharaka" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/tharakapat5"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Pathum-Tharaka" /></a></p><br>
 
