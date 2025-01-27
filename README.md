@@ -16,7 +16,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathum-tharaka" alt="pathum-tharaka" /></a> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathum-tharaka&row=1&column=8&theme=onestar&no-frame=false&no-bg=false&margin-w=4" alt="pathum-tharaka" /></a> </p>
 
 ---
 
