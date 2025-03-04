@@ -15,6 +15,7 @@
     <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px><br>
     <img src="https://komarev.com/ghpvc/?username=Pathum-Tharaka&label=Profile%20views&color=0e75b6&style=flat" alt="Pathum-Tharaka" /> 
 </p>
+
 ![GitHub Discussions Badge](https://img.shields.io/badge/GitHub-Discussions-blue?style=flat&logo=github)
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
