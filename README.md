@@ -18,7 +18,7 @@
 
 <p align="center"> 
     
-![GitHub Discussions Badge](https://img.shields.io/badge/GitHub-Discussions-blue?style=flat&logo=github)
+<![GitHub Discussions Badge](https://img.shields.io/badge/GitHub-Discussions-blue?style=flat&logo=github)>
     
 </p>
 
