@@ -7,11 +7,10 @@
 <p>Hey fellow tech aficionados!  I'm Pathum, a coding virtuoso and passionate undergraduate sorcerer in the mystical realm of software development. My world revolves around crafting digital wonders, where every line of code is a brushstroke of innovation. Join me in this exhilarating journey of turning the ordinary into extraordinary! Let's code up some serious enchantment together!</p>
 
 
- 
+ ![GitHub Discussions Badge](https://img.shields.io/badge/GitHub-Discussions-blue?style=flat&logo=github)
+
   </div>
 </div>
-
-<![GitHub Discussions Badge](https://img.shields.io/badge/GitHub-Discussions-blue?style=flat&logo=github)>
 
 
 <p align="center"> 
