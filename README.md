@@ -6,7 +6,6 @@
 
 <p>Hey fellow tech aficionados!  I'm Pathum, a coding virtuoso and passionate undergraduate sorcerer in the mystical realm of software development. My world revolves around crafting digital wonders, where every line of code is a brushstroke of innovation. Join me in this exhilarating journey of turning the ordinary into extraordinary! Let's code up some serious enchantment together!</p>
 
-![GitHub Discussions Badge](https://img.shields.io/badge/GitHub-Discussions-blue?style=flat&logo=github)
 
  
   </div>
@@ -16,6 +15,7 @@
     <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px><br>
     <img src="https://komarev.com/ghpvc/?username=Pathum-Tharaka&label=Profile%20views&color=0e75b6&style=flat" alt="Pathum-Tharaka" /> 
 </p>
+![GitHub Discussions Badge](https://img.shields.io/badge/GitHub-Discussions-blue?style=flat&logo=github)
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathum-tharaka" alt="pathum-tharaka" /></a> </p>
