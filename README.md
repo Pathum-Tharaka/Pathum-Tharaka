@@ -16,7 +16,11 @@
     <img src="https://komarev.com/ghpvc/?username=Pathum-Tharaka&label=Profile%20views&color=0e75b6&style=flat" alt="Pathum-Tharaka" /> 
 </p>
 
+<p align="center"> 
+    
 ![GitHub Discussions Badge](https://img.shields.io/badge/GitHub-Discussions-blue?style=flat&logo=github)
+    
+</p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathum-tharaka" alt="pathum-tharaka" /></a> </p>
