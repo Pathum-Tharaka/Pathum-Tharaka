@@ -35,7 +35,7 @@
 
 ### About me:
 
-- 🔭 I’m currently working as a **Freelancer**
+- 🔭 I’m currently working as a **Tour Guide WebSite**
 
 - 🌱 I’m currently learning **MERN Stack**
 
