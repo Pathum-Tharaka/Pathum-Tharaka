@@ -56,7 +56,7 @@
     <strong style="font-size: 12px; font-weight: bold; line-height: 1.67; color: #000;">Awarded: </strong>Jun 20, 2024
   </p>
   <p style="margin: 16px 0; padding: 0;">
-    <a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FN6taIz2BSt2B55ZiwBooXw%3Fidentity__email%3Dtharakapathum75@gmail.com&amp;identity__email=tharakapathum75@gmail.com" style="display: flex; align-items: center; justify-content: center; font-size: 14px; font-weight: bold; width: 80px; height: 24px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; color: black;">
+    <a class="badgr-badge-verify" target="_blank" href="https://badgecheck.us.badgr.com/?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2F_l3b8bVdSk2y6qHyMkIenA&__email%3Dtharakapathum75@gmail.com&amp;identity__email=tharakapathum75@gmail.com" style="display: flex; align-items: center; justify-content: center; font-size: 14px; font-weight: bold; width: 80px; height: 24px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; color: black;">
       VERIFY
     </a>
   </p>
