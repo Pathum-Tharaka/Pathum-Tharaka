@@ -18,8 +18,20 @@
     <img src="https://komarev.com/ghpvc/?username=Pathum-Tharaka&label=Profile%20views&color=0e75b6&style=flat" alt="Pathum-Tharaka" /> 
 </p>
 
-    <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif;">
-  <a href="https://api.badgr.io/public/assertions/N6taIz2BSt2B55ZiwBooXw?identity__email=jahanrazh%40gmail.com">
+   
+
+
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathum-tharaka" alt="pathum-tharaka" /></a> </p>
+
+
+---
+
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+ <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif;">
+  <a href="https://badgr.com/public/assertions/_l3b8bVdSk2y6qHyMkIenA__email=tharakapathum75@gmail.com">
     <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/N6taIz2BSt2B55ZiwBooXw/image" alt="Postman API Fundamentals Student Expert Badge">
   </a>
   <p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; line-height: 1.25; color: #05012c;">
@@ -35,18 +47,6 @@
   </p>
  
 </blockquote>
-
-
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathum-tharaka" alt="pathum-tharaka" /></a> </p>
-
-
----
-
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-
 
 
 ### About me:
