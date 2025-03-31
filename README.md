@@ -30,23 +30,7 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
- <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif;">
-  <a href="https://badgr.com/public/assertions/_l3b8bVdSk2y6qHyMkIenA__email=tharakapathum75@gmail.com">
-    <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/N6taIz2BSt2B55ZiwBooXw/image" alt="Postman API Fundamentals Student Expert Badge">
-  </a>
-  <p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; line-height: 1.25; color: #05012c;">
-    Postman API Fundamentals Student Expert
-  </p>
-  <p class="badgr-badge-date" style="margin: 0; font-size: 12px; line-height: 1.67; color: #555555;">
-    <strong style="font-size: 12px; font-weight: bold; line-height: 1.67; color: #000;">Awarded: </strong>Jun 19, 2024
-  </p>
-  <p style="margin: 16px 0; padding: 0;">
-    <a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FN6taIz2BSt2B55ZiwBooXw%3Fidentity__email%3Djahanrazh%2540gmail.com&amp;identity__email=jahanrazh%40gmail.com" style="display: flex; align-items: center; justify-content: center; font-size: 14px; font-weight: bold; width: 80px; height: 24px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; color: black;">
-      VERIFY
-    </a>
-  </p>
- 
-</blockquote>
+
 
 
 ### About me:
@@ -60,6 +44,24 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **tharakapathum75@gmail.com**
+
+-  <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif;">
+  <a href="https://badgr.com/public/assertions/_l3b8bVdSk2y6qHyMkIenA__email=tharakapathum75@gmail.com">
+    <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/N6taIz2BSt2B55ZiwBooXw/image" alt="Postman API Fundamentals Student Expert Badge">
+  </a>
+  <p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; line-height: 1.25; color: #05012c;">
+    Postman API Fundamentals Student Expert
+  </p>
+  <p class="badgr-badge-date" style="margin: 0; font-size: 12px; line-height: 1.67; color: #555555;">
+    <strong style="font-size: 12px; font-weight: bold; line-height: 1.67; color: #000;">Awarded: </strong>Jun 20, 2024
+  </p>
+  <p style="margin: 16px 0; padding: 0;">
+    <a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FN6taIz2BSt2B55ZiwBooXw%3Fidentity__email%3Dtharakapathum75@gmail.com&amp;identity__email=tharakapathum75@gmail.com" style="display: flex; align-items: center; justify-content: center; font-size: 14px; font-weight: bold; width: 80px; height: 24px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; color: black;">
+      VERIFY
+    </a>
+  </p>
+ 
+</blockquote>
 
 
 ---
