@@ -1,7 +1,7 @@
 <div>
     <div align="center">
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Pathum;Software+Engineering+Student;Back-End+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" /><br> 
-        <h1 align="center">I'm Pathum Tharaka</h1>
+        <h1 align="center">Hello,I'm Pathum Tharaka</h1>
         <h3 align="center">A Machine that turns Coffee into Code</h3>
 
 <p>Hey fellow tech aficionados!  I'm Pathum, a coding virtuoso and passionate undergraduate sorcerer in the mystical realm of software development. My world revolves around crafting digital wonders, where every line of code is a brushstroke of innovation. Join me in this exhilarating journey of turning the ordinary into extraordinary! Let's code up some serious enchantment together!</p>
